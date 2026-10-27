@@ -1,0 +1,2 @@
+Os ícones são desenhados por código com Pillow (utils/icons.py); esta pasta está reservada
+para PNGs próprios, caso queira substituir algum ícone no futuro.

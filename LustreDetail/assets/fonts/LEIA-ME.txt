@@ -1,0 +1,10 @@
+Coloque aqui os arquivos .ttf das fontes (opcional):
+
+  Inter:             Inter-Regular.ttf, Inter-Medium.ttf, Inter-SemiBold.ttf, Inter-Bold.ttf
+  Barlow Condensed:  BarlowCondensed-Regular.ttf, BarlowCondensed-SemiBold.ttf, BarlowCondensed-Bold.ttf
+
+Downloads (licença OFL, gratuitas): https://fonts.google.com/specimen/Inter
+                                    https://fonts.google.com/specimen/Barlow+Condensed
+
+No Windows os arquivos são carregados automaticamente ao abrir o sistema (sem instalar nada).
+Sem eles, o sistema usa Segoe UI (texto) e Bahnschrift SemiCondensed / Arial Narrow (títulos).
